@@ -1,0 +1,17 @@
+{
+	"site": {
+		"rootDir": "/var/www/html/milkshake/live/",
+		"rootUrl": "https://www.milk-shake.co.uk/"
+	},
+
+	"database": {
+		"hostname": "127.0.0.1",
+		"port": "3306",
+
+		"username": "milkshake",
+		"password": "milkshake2017",
+
+		"charset": "utf8",
+		"dbname": "Milkshake"
+	}
+}
